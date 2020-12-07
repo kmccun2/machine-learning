@@ -1,0 +1,54 @@
+[
+    {
+        "signal": "hand hand mouth",
+        "sign": "steal"
+    },
+    {
+        "signal": "hand mouth mouth",
+        "sign": "steal"
+    },
+    {
+        "signal": "hand nose mouth",
+        "sign": "steal"
+    },
+    {
+        "signal": "hand hand nose",
+        "sign": "steal"
+    },
+    {
+        "signal": "hand nose nose",
+        "sign": "steal"
+    },
+    {
+        "signal": "hand nose mouth",
+        "sign": "steal"
+    },
+    {
+        "signal": "nose nose mouth",
+        "sign": "bunt"
+    },
+    {
+        "signal": "nose nose mouth",
+        "sign": "bunt"
+    },
+    {
+        "signal": "nose hand mouth",
+        "sign": "bunt"
+    },
+    {
+        "signal": "nose hand knee",
+        "sign": "bunt"
+    },
+    {
+        "signal": "nose knee knee",
+        "sign": "bunt"
+    },
+    {
+        "signal": "nose knee mouth",
+        "sign": "bunt"
+    },
+    {
+        "signal": "nose hand mouth",
+        "sign": "bunt"
+    }
+]
